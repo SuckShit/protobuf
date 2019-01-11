@@ -200,3 +200,8 @@ cmake/cmake-build-debug/
 # IntelliJ
 .idea
 *.iml
+
+#mine
+cmake_build/
+examples/my_test/protoc_test/Debug
+*.vcxproj*

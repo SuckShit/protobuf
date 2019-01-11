@@ -1,0 +1,7 @@
+syntax = "proto2";
+package fuckingasshole;
+
+message testwhat{
+	optional int32 opint = 1;
+	optional bool  opbl = 2;
+}
